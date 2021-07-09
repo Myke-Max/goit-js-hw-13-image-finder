@@ -31,6 +31,6 @@ export default class pixabayApiService {
     }
 
     set query(newQuery) {
-        return this.searchQuery = newQuery
+        this.searchQuery = newQuery
     }
 }

@@ -1,0 +1,25 @@
+.search-form {
+    display: flex;
+    justify-content: center;
+}
+
+.search-btn{
+    margin-top: 23px;
+    height: 32px;
+        background-color: #fff;
+        outline: none;
+        border: none;
+
+}
+
+input{
+    width: 35%;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border-color:  cornflowerblue;;
+    border-radius: 10px;
+    background-color: #fff;
+    outline: none;
+}
